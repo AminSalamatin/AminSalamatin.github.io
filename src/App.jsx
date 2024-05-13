@@ -2,6 +2,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import TechnicalExperience from "./components/TechnicalExperience";
+import Education from "./components/Education";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <div className="flex-grow">
         <TechnicalExperience />
+        <Education />
       </div>
       <Footer />
     </div>
