@@ -5,9 +5,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {
-      "label" : "border 2 px-2 mx-2"
-    },
+    extend: {},
   },
   plugins: [],
 }
