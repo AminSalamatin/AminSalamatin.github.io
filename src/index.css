@@ -7,7 +7,7 @@
 }
 
 .skill {
-    @apply px-2 mx-2 mb-4 rounded-md text-accent border-4 border-accent
+  @apply px-2 pb-1 mx-2 mb-4 rounded-md text-accent border-4 border-accent;
 }
 
 h1 {
@@ -35,7 +35,7 @@ h6 {
 }
 
 @layer base {
-    body {
-      @apply text-text bg-dominant;
-    }
+  body {
+    @apply text-text bg-dominant;
   }
+}

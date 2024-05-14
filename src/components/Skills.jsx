@@ -22,7 +22,6 @@ const Skills = () => {
         <li className="skill">JUnit</li>
         <li className="skill">Rest API</li>
         <li className="skill">GraphQL</li>
-
       </ul>
     </div>
   );
