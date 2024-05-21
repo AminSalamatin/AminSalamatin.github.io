@@ -20,7 +20,7 @@ const Skills = () => {
         <li className="skill">Maven</li>
         <li className="skill">Jest</li>
         <li className="skill">JUnit</li>
-        <li className="skill">Rest API</li>
+        <li className="skill">REST API</li>
         <li className="skill">GraphQL</li>
       </ul>
     </div>
