@@ -10,21 +10,19 @@ function App() {
     <div className="flex flex-col min-h-full">
       <Navbar />
       <div className="flex-grow max-w-[80vh] mx-auto">
-        <h3>About me</h3>
-        <p className="text-4xl mb-20 text-left">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+        <h2 className="pt-10">About me</h2>
+        <p className="text-4xl mb-20 text-justify">
+          Hello! I&apos;m Amin, a 21-year-old Software Development student with over seven
+          years of programming experience. My expertise spans front-end and
+          back-end development, and I&apos;ve also studied game development.
+          Currently, I&apos;m focused on a software
+          development career.
         </p>
-        <Skills/>
-        <Portfolio/>
-        <Education/>
+        <Skills />
+        <Portfolio />
+        <Education />
       </div>
-      <Footer/>
+      <Footer />
     </div>
   );
 }
