@@ -6,7 +6,7 @@ const Navbar = () => {
         <ul className="flex my-auto">
           <li>
             <a
-              href=""
+              href="https://www.linkedin.com/in/amin-salamatin-3b0756259/"
               className="px-4 ml-5 text-accent border-4 border-accent text-3xl rounded-md hover:border-accent-light hover:text-accent-light hover:bg-dominant-light cursor-pointer"
             >
               LinkedIn
@@ -17,7 +17,15 @@ const Navbar = () => {
               href=""
               className="px-4 ml-5 text-accent border-4 border-accent text-3xl rounded-md hover:border-accent-light hover:text-accent-light hover:bg-dominant-light cursor-pointer"
             >
-              Resume
+              CV
+            </a>
+            </li>
+            <li>
+            <a
+              href="https://github.com/AminSalamatin"
+              className="px-4 ml-5 text-accent border-4 border-accent text-3xl rounded-md hover:border-accent-light hover:text-accent-light hover:bg-dominant-light cursor-pointer"
+            >
+              GitHub
             </a>
           </li>
         </ul>
