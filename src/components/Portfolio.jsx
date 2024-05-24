@@ -57,13 +57,13 @@ const Portfolio = () => {
             <h4>&gt;1 week</h4>
             </div>
             <p>
-            Simple Web App I developed for a school project. Its main purpose is to implement an API from OpenWeather using XMLHttpRequest.
+            Simple Web App I developed for a school project. Its main purpose is to implement an API from OpenWeather using AJAX.
             </p>
             <ul className="flex text-2xl font-bold text-accent border-accent flex-wrap mt-10">
               <li className="skill">HTML</li>
               <li className="skill">CSS</li>
               <li className="skill">JavaScript</li>
-              <li className="skill">XMLHttpRequest</li>
+              <li className="skill">AJAX</li>
             </ul>
           </li>
         </a>
