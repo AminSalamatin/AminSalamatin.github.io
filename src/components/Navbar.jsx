@@ -7,6 +7,7 @@ const Navbar = () => {
           <li>
             <a
               href="https://www.linkedin.com/in/amin-salamatin-3b0756259/"
+              target="_blank"
               className="px-4 ml-5 text-accent border-4 border-accent text-3xl rounded-md hover:border-accent-light hover:text-accent-light hover:bg-dominant-light cursor-pointer"
             >
               LinkedIn
@@ -14,7 +15,8 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href=""
+              href="./src/assets/Amin_Salamatin_CV_EN.pdf"
+              target="_blank"
               className="px-4 ml-5 text-accent border-4 border-accent text-3xl rounded-md hover:border-accent-light hover:text-accent-light hover:bg-dominant-light cursor-pointer"
             >
               CV
@@ -23,6 +25,7 @@ const Navbar = () => {
             <li>
             <a
               href="https://github.com/AminSalamatin"
+              target="_blank"
               className="px-4 ml-5 text-accent border-4 border-accent text-3xl rounded-md hover:border-accent-light hover:text-accent-light hover:bg-dominant-light cursor-pointer"
             >
               GitHub
