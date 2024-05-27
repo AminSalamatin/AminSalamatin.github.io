@@ -15,7 +15,7 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href="https://aminsalamatin.github.io/src/assets/Amin_Salamatin_CV_EN.pdf"
+              href="/src/assets/Amin_Salamatin_CV_EN.pdf"
               target="_blank"
               className="px-4 ml-5 text-accent border-4 border-accent text-3xl rounded-md hover:border-accent-light hover:text-accent-light hover:bg-dominant-light cursor-pointer"
             >
