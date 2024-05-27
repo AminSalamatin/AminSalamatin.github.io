@@ -18,11 +18,11 @@ function App() {
           Currently, I&apos;m focused on a software
           development career.
         </p>
-        <Skills />
-        <Portfolio />
-        <Education />
+        <Skills/>
+        <Portfolio/>
+        <Education/>
       </div>
-      <Footer />
+      <Footer/>
     </div>
   );
 }
