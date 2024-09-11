@@ -13,15 +13,6 @@ const Navbar = () => {
               LinkedIn
             </a>
           </li>
-          <li>
-            <a
-              href="/Amin_Salamatin_CV_EN.pdf"
-              target="_blank"
-              className="px-4 ml-5 text-accent border-4 border-accent text-3xl rounded-md hover:border-accent-light hover:text-accent-light hover:bg-dominant-light cursor-pointer"
-            >
-              CV
-            </a>
-            </li>
             <li>
             <a
               href="https://github.com/AminSalamatin"
