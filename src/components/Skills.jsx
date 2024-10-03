@@ -2,7 +2,7 @@ const Skills = () => {
   return (
     <div className="mb-20">
       <h1 className="text-left">Technical Experience</h1>
-      <ul className="flex text-2xl font-bold text-accent border-accent flex-wrap gap-2">
+      <ul className="flex text-2xl font-bold text-accent border-accent flex-wrap justify-start space-x-2">
         <li className="skill">Java</li>
         <li className="skill">JavaScript</li>
         <li className="skill">TypeScript</li>
