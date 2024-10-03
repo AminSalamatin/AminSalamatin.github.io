@@ -13,11 +13,11 @@ const Skills = () => {
         <li className="skill">MySql</li>
         <li className="skill">Python</li>
         <li className="skill">Docker</li>
+        <li className="skill">REST API</li>
+        <li className="skill">GraphQL</li>
         <li className="skill">Microsoft Azure</li>
         <li className="skill">Unit Testing</li>
         <li className="skill">AJAX</li>
-        <li className="skill">REST API</li>
-        <li className="skill">GraphQL</li>
       </ul>
     </div>
   );
