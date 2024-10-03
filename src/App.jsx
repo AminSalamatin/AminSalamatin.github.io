@@ -12,11 +12,9 @@ function App() {
       <div className="flex-grow max-w-[80vh] mx-auto">
         <h2 className="pt-10">About me</h2>
         <p className="text-4xl mb-20 text-justify">
-          Hello! I&apos;m Amin, a 21-year-old Software Development student with over seven
-          years of programming experience. My expertise spans front-end and
-          back-end development, and I&apos;ve also studied game development.
-          Currently, I&apos;m focused on a software
-          development career.
+        Hello! I&apos;m Amin, a 21-year-old Software Development student with over five years of hands-on programming experience. 
+        I specialize in full-stack development and have also studied game development. 
+        Currently, I am focused on advancing my career in software development.
         </p>
         <Skills/>
         <Portfolio/>
