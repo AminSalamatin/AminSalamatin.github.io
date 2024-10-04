@@ -2,7 +2,7 @@ const Education = () => {
   return (
     <div className="text-left text-2xl px-auto">
       <h1>Education</h1>
-      <ul className="flex flex-col">
+      <ul className="flex flex-nowrap">
         <li className="label">
           <h3>Business College Helsinki</h3>
           <p>Major in Game Development</p>
