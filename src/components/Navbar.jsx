@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <nav className="bg-secondary sticky top-0 w-full p-10 z-10 border-b border-text-shadow ">
+    <nav className="bg-secondary sticky top-0 w-fit p-10 z-10 border-b border-text-shadow ">
       <div className="max-w-[70vw] flex justify-between mx-auto">
         <h1 className="mb-0">Amin Salamatin</h1>
         <ul className="flex my-auto">
