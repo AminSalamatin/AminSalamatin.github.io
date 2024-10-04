@@ -2,7 +2,7 @@ const Portfolio = () => {
   return (
     <div className="text-left mb-20">
       <h1>Portfolio</h1>
-      <ul className="flex flex-wrap text-2xl">
+      <ul className="flex flex-col text-2xl">
         <a
           href="https://github.com/AminSalamatin/CS2-backend.git"
           target="_blank"
@@ -52,7 +52,7 @@ const Portfolio = () => {
           target="_blank"
         >
           <li className="label hover:bg-dominant-light cursor-pointer flex-grow">
-          <div className="flex justify-between flex-grow">
+          <div className="flex justify-between">
             <h3>WeatherNow (2022)</h3>
             <h4>&gt;1 week</h4>
             </div>
