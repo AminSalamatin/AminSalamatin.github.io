@@ -7,9 +7,9 @@ import Portfolio from "./components/Portfolio";
 
 function App() {
   return (
-    <div className="flex flex-col min-h-full">
+    <div className="flex flex-col min-h-full min-w-full">
       <Navbar />
-      <div className="flex-grow max-w-[100vh] min-w-[600px] mx-auto">
+      <div className="flex-grow mx-auto">
         <h2 className="pt-10">About me</h2>
         <p className="text-4xl mb-20 text-justify">
         Hello! I&apos;m Amin, a 21-year-old Software Development student with over five years of hands-on programming experience. 
