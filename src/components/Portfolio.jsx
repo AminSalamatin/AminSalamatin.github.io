@@ -2,7 +2,7 @@ const Portfolio = () => {
   return (
     <div className="text-left mb-20">
       <h1>Portfolio</h1>
-      <ul className="flex flex-col text-2xl">
+      <ul className="flex flex-col text-3xl">
         <a
           href="https://github.com/AminSalamatin/CS2-backend.git"
           target="_blank"
