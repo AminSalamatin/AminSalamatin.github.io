@@ -17,8 +17,8 @@ const Skills = () => {
         <li className="skill">GraphQL</li>
         <li className="skill">Tailwind CSS</li>
         <li className="skill">Microsoft Azure</li>
-        <li className="skill">Unit Testing</li>
         <li className="skill">Git</li>
+        <li className="skill">Unit Testing</li>
         <li className="flex-grow"></li>
       </ul> 
     </div>
