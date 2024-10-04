@@ -51,8 +51,8 @@ const Portfolio = () => {
           href="https://github.com/AminSalamatin/WeatherNow.git"
           target="_blank"
         >
-          <li className="label hover:bg-dominant-light cursor-pointer">
-          <div className="flex justify-between">
+          <li className="label hover:bg-dominant-light cursor-pointer flex-grow">
+          <div className="flex justify-between flex-grow">
             <h3>WeatherNow (2022)</h3>
             <h4>&gt;1 week</h4>
             </div>
