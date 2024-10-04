@@ -16,7 +16,7 @@ function App() {
         I specialize in full-stack development and have also studied game development. 
         Currently, I am focused on advancing my career in software development.
         </p>
-        </hr>
+        <hr />
         <Skills/>
         <Portfolio/>
         <Education/>
