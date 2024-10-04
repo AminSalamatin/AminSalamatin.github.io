@@ -3,7 +3,7 @@ const Navbar = () => {
     <nav className="bg-secondary sticky top-0 w-full p-10 z-10 border-b border-text-shadow ">
       <div className="flex justify-between mx-0">
         <h1 className="mb-0">Amin Salamatin</h1>
-        <ul className=""flex flex-col space-y-10 my-auto sm:flex-row sm:space-y-0"">
+        <ul className="flex flex-col space-y-10 my-auto sm:flex-row sm:space-y-0">
           <li>
             <a
               href="https://www.linkedin.com/in/amin-salamatin-3b0756259/"
