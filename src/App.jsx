@@ -11,7 +11,7 @@ function App() {
       <Navbar />
       <div className="flex-grow mx-auto">
         <h2 className="pt-10">About me</h2>
-        <p className="text-4xl mb-20 text-justify">
+        <p className="text-4xl mb-20 px-5 text-justify">
         Hello! I&apos;m Amin, a 21-year-old Software Development student with over five years of hands-on programming experience. 
         I specialize in full-stack development and have also studied game development. 
         Currently, I am focused on advancing my career in software development.
