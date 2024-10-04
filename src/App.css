@@ -26,18 +26,6 @@ html {
   }
 }
 
-@media (max-width: 480px) {
-  html {
-    font-size: 4px;
-  }
-}
-
-@media (max-width: 320px) {
-  html {
-    font-size: 3px;
-  }
-}
-
 body {
   text-align: center;
   overflow-x: hidden;
