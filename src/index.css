@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .label {
-  @apply border-2 border-text-shadow p-8 mx-2 mb-4 bg-dominant-dark w-full;
+  @apply border-2 border-text-shadow p-8 mx-2 mb-4 bg-dominant-dark;
 }
 
 .skill {
