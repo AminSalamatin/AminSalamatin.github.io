@@ -7,7 +7,7 @@ import Portfolio from "./components/Portfolio";
 
 function App() {
   return (
-    <div className="flex flex-col min-h-full min-w-full">
+    <div className="flex flex-col min-h-full min-w-full px-5">
       <Navbar />
       <div className="flex-grow mx-auto">
         <h2 className="pt-10">About me</h2>
