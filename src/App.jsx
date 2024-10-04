@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="flex flex-col min-h-full min-w-full">
       <Navbar />
-      <div className="flex-grow mx-auto px-5 w-[60vw] lg:w-[80vw]">
+      <div className="flex-grow mx-auto px-5 w-[89vw] lg:w-[60vw]">
         <h1 className="pt-10">About me</h1>
         <p className="text-3xl text-left">
         Hello! I&apos;m Amin, a 21-year-old Software Development student with over five years of hands-on programming experience. 
