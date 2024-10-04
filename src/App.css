@@ -3,6 +3,7 @@
   height: 100vh;
   margin: 0 auto;
   text-align: center;
+  overflow-x: hidden;
 }
 
 .logo {
@@ -43,6 +44,3 @@
   color: #888;
 }
 
-body {
-  overflow-x: hidden;
-}
