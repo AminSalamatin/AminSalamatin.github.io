@@ -15,7 +15,7 @@ const Portfolio = () => {
             <p>
             Backend repository of the CS2 project, featuring a forum, user authentication, and HLTV API integration for accessing Counter-Strike 2 game data. This backend was developed solely by me.
             </p>
-            <ul className="flex text-2xl font-bold text-accent border-accent flex-wrap mt-10">
+            <ul className="flex text-3xl font-bold text-accent border-accent flex-wrap mt-10">
               <li className="skill">TypeScript</li>
               <li className="skill">Node.js</li>
               <li className="skill">Express</li>
@@ -38,7 +38,7 @@ const Portfolio = () => {
             <p>
             Front-end repository of a React web app developed as a school project, featuring fitness tracking and a chatbot powered by the ChatGPT 3.5 API. I worked as part of the front-end team, primarily focusing on React component logic and integrating APIs from the backend.
             </p>
-            <ul className="flex text-2xl font-bold text-accent border-accent flex-wrap mt-10">
+            <ul className="flex text-3xl font-bold text-accent border-accent flex-wrap mt-10">
               <li className="skill">React</li>
               <li className="skill">Vite</li>
               <li className="skill">REST API</li>
@@ -59,7 +59,7 @@ const Portfolio = () => {
             <p>
             Simple Web App I developed for a school project. Its main purpose is to implement an API from OpenWeather using AJAX.
             </p>
-            <ul className="flex text-2xl font-bold text-accent border-accent flex-wrap mt-10">
+            <ul className="flex text-3xl font-bold text-accent border-accent flex-wrap mt-10">
               <li className="skill">HTML</li>
               <li className="skill">CSS</li>
               <li className="skill">JavaScript</li>
